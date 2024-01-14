@@ -10,17 +10,17 @@ Prerequisites that are required to run the app locally
 4.AWS Account to create redis cache
 5.Postman App
 
-Process:
-Make git clone of this repository on the local machine
-Change directory to the project in the terminal or in IDE
-Create a local conda environment and activate it
-Install all the necessary libraries by running pip install -r requirements.txt
-Now open the MongoDB start the connection
-If there is an AWS account create an redis cache
+# Process:
+Make git clone of this repository on the local machine,
+Change directory to the project in the terminal or in IDE,
+Create a local conda environment and activate it,
+Install all the necessary libraries by running pip install -r requirements.txt,
+Now open the MongoDB start the connection,
+If there is an AWS account create an redis cache.
 
-In the crego_app fill your mongodb url in the required place
-Also get the endpoint url from redis cache created and fill it where it is required
-Run the app and test the api's in postman
+In the crego_app fill your mongodb url in the required place,
+Also get the endpoint url from redis cache created and fill it where it is required,
+Run the app and test the api's in postman.
 
 # API results
 
